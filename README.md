@@ -1,4 +1,4 @@
 # Jaynel-Lucanas
 
 
-<img src="https://streak-stats.demolab.com?user=nel0029&exclude_days=Sun&card_width=1020" alt="GitHub Streak" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=nel0029&theme=youtube-dark&mode=weekly&exclude_days=Sun&card_width=1000)](https://git.io/streak-stats)
